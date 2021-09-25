@@ -1,6 +1,4 @@
-# Edabit_Practice_Challenges
-
-Edabit Java Practice Challenges in different difficulity
+# Edabit Java Practice Challenges in different difficulity
 
 https://edabit.com/
 
